@@ -1,0 +1,7 @@
+#The kills variable is known as POINTS, use this and it will be replaced in the chat with their kills
+#Make sure to surround the prefix message with "", e.g. "[POINTS]"
+#The default points given for a kill is KillPoints, this is default 10!
+#The default points taken for a death is DeathPoints, this is default 30!
+Prefix: "&c[POINTS&c]&r"
+KillPoints: 10
+DeathPoints: 30

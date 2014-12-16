@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="KillCount:jar">
+    <output-path>$USER_HOME$/Documents/Plugin Development/Plugin server/plugins</output-path>
+    <root id="archive" name="KillCount.jar">
+      <element id="module-output" name="KillCount" />
+      <element id="file-copy" path="$PROJECT_DIR$/config.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>

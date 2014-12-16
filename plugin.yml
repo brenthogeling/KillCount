@@ -1,0 +1,10 @@
+name: KillCount
+main: com.gmail.brentplaysmc.KillCount.KillCount
+version: 1.0
+description: >
+             A custom kill counter!
+
+commands:
+   points:
+         description: All points related commands!
+         usage:
